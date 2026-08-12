@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://t.me/classlight"><img src="https://t.me/classlight"></a>
   <a href="https://youtube.com/@owov_bot?si=f0Pzs1q0ZXwtToRr"><img src="https://img.shields.io/badge/Tool-CookPhish-blueviolet?style=for-the-badge"></a>
-  <a href="https://github.com/technicalwhitehat-yt/CookPhish"><img src="https://img.shields.io/github/v/release/technicalwhitehat-yt/CookPhish?style=for-the-badge"></a>
-  <a href="https://github.com/technicalwhitehat-yt"><img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=for-the-badge"></a>
+  <a href="https://github.com/technicalwhitehat-yt/CookPhish"><img src="https://t.me/classlight"></a>
+  <a href="https://t.me/classlight"><img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=for-the-badge"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=technicalwhitehat-yt.CookPhish" alt="visitor badge"/>
 </p>
 
